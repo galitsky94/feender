@@ -35,7 +35,7 @@ export default function LandingPage() {
           <div className="mb-12 flex justify-center">
             <div className="relative">
               <img
-                src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500&h=350&fit=crop&q=80"
+                src="/images/istockphoto-1406592036-612x612.jpg"
                 alt="Happy feet with smiley faces on grass"
                 className="rounded-3xl shadow-2xl w-96 h-64 object-cover border-4 border-white/30"
               />
